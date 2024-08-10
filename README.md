@@ -1,5 +1,5 @@
 
-# Hello, I'm Alex! 
+# Hi, I'm Alex! 
 I am a student at Boston University studying Computer Science, who loves building high-quality websites and applications. I am also currently working as a Web Developer for the BU School of Medicine this year.
 
 - 🌐 Visit my [portfolio website](https://blogs.bu.edu/amcbrier) to learn more about me and my work.

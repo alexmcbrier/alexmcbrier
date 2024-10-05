@@ -1,6 +1,6 @@
 
 # Hi, I'm Alex! 
-I am a student at Boston University studying Computer Science, who loves building websites and apps.
+I am a student at Boston University studying Computer Science who loves building websites and apps.
 
 - 🌐 Visit my [portfolio website](https://blogs.bu.edu/amcbrier) to learn more about me and my work.
 -    Reach out on [linkedin](https://www.linkedin.com/in/alexandermcbrier/) to get in touch with me.
